@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AutomataAI — Premium Landing Page
 
-# Run and deploy your AI Studio app
+**Competition Submission** — FrontEnd Battle 3.0 by VibeCoding
 
-This contains everything you need to run your app locally.
+A high-end, production-grade landing page built to demonstrate architectural excellence, motion design, and technical precision under competition constraints.
 
-View your app in AI Studio: https://ai.studio/apps/cb4a0fca-ee15-48b4-a8d6-20fc53b7bb8f
+**Key Features Implemented:**
+- Dynamic multi-currency & billing pricing engine (isolated updates)
+- Bento grid with seamless mobile accordion + context preservation
+- Premium protective brand identity
+- Exceptional UI/UX polish and performance
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+**Tech Stack:** Next.js 15 + TypeScript + Tailwind CSS
+  
+**Submission Date:** 26 June 2026
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Made with ❤️ for VibeCoding.
