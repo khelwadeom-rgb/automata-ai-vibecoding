@@ -13,7 +13,7 @@ A high-end, production-grade landing page built to demonstrate architectural exc
 ---
 
 **Tech Stack:** Next.js 15 + TypeScript + Tailwind CSS
-  
+**Live Demo:** [View Live](https://automata-ai.vercel.app/)
 **Submission Date:** 26 June 2026
 
 Made with ❤️ for VibeCoding.
