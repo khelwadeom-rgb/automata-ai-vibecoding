@@ -1,0 +1,6 @@
+{
+  "name": "AutomataAI",
+  "description": "Premium landing page for AutomataAI - an advanced AI-driven data automation platform featuring an interactive workflow visualizer, real-time data flows, and active automation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
